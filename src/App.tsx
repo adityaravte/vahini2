@@ -26,7 +26,7 @@ export default function Page() {
   useEffect(() => {
     if (redirect) {
       // Replace the URL below with your desired destination
-      window.location.href = "https://spiffy-biscochitos-400edb.netlify.app/";
+      window.location.href = "https://profound-marigold-64c6b1.netlify.app/";
     }
   }, [redirect]);
 
